@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.13](https://github.com/mynaparrot/moodle-mod_plugnmeet/compare/v1.2.12...v1.2.13) (2024-11-23)
+
+
+### Bug Fixes
+
+* **bump:** bump version ([9247beb](https://github.com/mynaparrot/moodle-mod_plugnmeet/commit/9247bebe9d8981e1e4834cecd064b54299b43396))
+
 ## [1.2.12](https://github.com/mynaparrot/moodle-mod_plugnmeet/compare/v1.2.11...v1.2.12) (2024-11-09)
 
 
